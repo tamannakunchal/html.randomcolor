@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1689946242927-0537a5aa6d19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c29mdCUyMGJhY2tncm91bmR8ZW58MHwwfDB8fHwy");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+div{
+    width: 600px;
+    height: 100px;
+    border: 2px double brown;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+button{
+    border: 1px solid lightgray;
+    background-color: rgb(192, 167, 216);
+    padding: 5px 10px;
+    border-radius: 9px;
+    color: rgb(163, 0, 212);
+}
